@@ -1,5 +1,5 @@
 .blogContainer{
-    height: 95vh;
+    height: 80vh;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -15,8 +15,7 @@
 .article{
     width: 35%;
     height: 100%;
-    background-color: rgba(245, 241, 241, 0.794);
+    background-color: rgba(169, 224, 155, 0.794);
     padding: 25px;
     border-radius: 10px;
-    font-size: 20px; 
 }
