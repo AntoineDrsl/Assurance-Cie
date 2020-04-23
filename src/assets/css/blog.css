@@ -1,0 +1,21 @@
+#articlesContainer{
+    height: 95vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#articles{
+    display: flex;
+    justify-content: space-around;
+}
+
+.article{
+    width: 35%;
+    height: 100%;
+    background-color: rgba(245, 241, 241, 0.794);
+    padding: 25px;
+    border-radius: 10px;
+    font-size: 20px; 
